@@ -13,9 +13,14 @@ export const Hero = () => {
         </p>
         <br></br>
         <p className={styles.description}>I took a 2-year career break for caregiving purposes. During this break, I actively engaged in personal projects to maintain and enhance my technical skills, ensuring they remain up-to-date with current industry standards.</p>
-        <a href="https://docs.google.com/document/d/1-FT-zIyHeQpyKqTBA4e2mUzOCXBmIJa-/edit" className={styles.contactBtn}>
+        <div className={styles.res}>
+        <a href="https://docs.google.com/document/d/1iW3W4XOr0urqaNZtRHboVc5V0ruCZLCi/edit" className={styles.contactBtn}>
           Resume
         </a>
+        <a href="mailto:deekshatrip@gmail.com" className={styles.contactBtn}>
+          Hire Me
+        </a>
+        </div>
       </div>
       <img
         src={getImageUrl("hero/heroImage.jpg")}
