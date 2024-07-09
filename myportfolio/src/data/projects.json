@@ -1,0 +1,24 @@
+[
+  {
+    "title": "News Hub",
+    "imageSrc": "projects/project.png",
+    "description": "A full-stack web application that aggregates the latest news from various sources. The site uses HTTP for cost efficiency, as it does not collect or handle any sensitive user data.",
+    "skills": ["React", "Spring Boot", "RESTful APIs", "Docker" , "AWS EC2"],
+    "demo": "http://newsapp1993.s3-website-us-east-1.amazonaws.com/",
+    "git": "https://github.com/deekshamypersonal/NewsApp/tree/main"
+  },
+  {
+    "title": "Sync Reminder",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an application that enables automatic event creation and reminders directly from chat applications like Telegram.",
+    "skills": ["Spring Boot", "NLP", "OAuth", "AWS Serverless"],
+    "git": "https://github.com/deekshamypersonal/telegramintegration"
+  },
+  {
+    "title": "Hospital Bed Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "Implemented a scalable backend for patient bed booking with role-based access, automated bed allocation, and unique ID dispatch via email.",
+    "skills": ["Microservice","JWT", "RabbitMQ", "Redis"],
+    "git": "https://github.com/deekshamypersonal/bedtracker/tree/master"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Senior Software Engineer",
+    "organisation": "Deloitte",
+    "startDate": "Mar, 2021",
+    "endDate": "Jun, 2022",
+    "experiences": ["Developed distributed microservices with Spring Cloud framework for a Fortune 500 retail giant, decreasing item out-of-stocks by 25% through automated order generation","Orchestrated asynchronous communication through message brokers contributing to platform event driven architecture."],
+    "imageSrc": "history/Deloitte.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Allianz",
+    "startDate": "Aug, 2020",
+    "endDate": "Feb, 2021",
+    "experiences": ["Contributed to the development of workflows on the frontend and business layers for core insurance solutions across Asia specific regions. ","Worked on a full-stack desktop application for insurance agents to manage policy creation and process approvals."],
+    "imageSrc": "history/Allianz.png"
+  },
+  {
+    "role": "Programmer Analyst",
+    "organisation": "Cognizant",
+    "startDate": "Jan, 2016",
+    "endDate": "Aug, 2019",
+    "experiences": [
+      "Designed and developed an ETL layer for the efficient processing and uploading of over 100,000 data entries to the Reltio Master Data Management (MDM) platform.",
+      "Performed configuration of entities, lookups, match and merge and survivorship rules."
+    ],
+    "imageSrc": "history/Cognizant.jpg"
+  }
+]
